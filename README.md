@@ -7,7 +7,7 @@
   Temperature analysis particularly  in the months of June and December, would give clear understanding, to open the shop and run the business successfully 
 
  **Results:**
-  The following table summarizes Decembers temperature statistics over time.
+  The following tables summarize temperature statistics.
 
 Summary  statistics Temp table for June :
 

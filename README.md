@@ -1,6 +1,6 @@
 # surfs_up
 
- ** Overview of the statistical analysis:
+ ** Overview of the statistical analysis:**
     The best time to start the surf and ice cream shop in Oahu, is by analysing the temperature trends particularly in the months of June and December and determine the business, to run sustainably year-round.
 
  ** The purpose of the analysis:
